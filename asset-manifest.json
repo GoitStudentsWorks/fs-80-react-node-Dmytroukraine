@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fs-80-react-node-Dmytroukraine/static/css/main.bd1986a7.css",
-    "main.js": "/fs-80-react-node-Dmytroukraine/static/js/main.59633c54.js",
+    "main.js": "/fs-80-react-node-Dmytroukraine/static/js/main.e9e6527f.js",
     "static/css/530.15723e52.chunk.css": "/fs-80-react-node-Dmytroukraine/static/css/530.15723e52.chunk.css",
     "static/js/530.1dc80c90.chunk.js": "/fs-80-react-node-Dmytroukraine/static/js/530.1dc80c90.chunk.js",
     "static/css/410.6c9b4cdc.chunk.css": "/fs-80-react-node-Dmytroukraine/static/css/410.6c9b4cdc.chunk.css",
@@ -29,7 +29,7 @@
     "static/media/logo.svg": "/fs-80-react-node-Dmytroukraine/static/media/logo.6cb16cf1ac1cac61875038b493cf9861.svg",
     "static/media/x.svg": "/fs-80-react-node-Dmytroukraine/static/media/x.358abb3c7267c7a7485d2f239b2827e0.svg",
     "main.bd1986a7.css.map": "/fs-80-react-node-Dmytroukraine/static/css/main.bd1986a7.css.map",
-    "main.59633c54.js.map": "/fs-80-react-node-Dmytroukraine/static/js/main.59633c54.js.map",
+    "main.e9e6527f.js.map": "/fs-80-react-node-Dmytroukraine/static/js/main.e9e6527f.js.map",
     "530.15723e52.chunk.css.map": "/fs-80-react-node-Dmytroukraine/static/css/530.15723e52.chunk.css.map",
     "530.1dc80c90.chunk.js.map": "/fs-80-react-node-Dmytroukraine/static/js/530.1dc80c90.chunk.js.map",
     "410.6c9b4cdc.chunk.css.map": "/fs-80-react-node-Dmytroukraine/static/css/410.6c9b4cdc.chunk.css.map",
@@ -39,6 +39,6 @@
   },
   "entrypoints": [
     "static/css/main.bd1986a7.css",
-    "static/js/main.59633c54.js"
+    "static/js/main.e9e6527f.js"
   ]
 }
